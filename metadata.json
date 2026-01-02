@@ -1,0 +1,5 @@
+{
+  "name": "HT AI",
+  "description": "Enterprise-grade AI presentation generator using Gemini 3 Pro and Nano Banana Pro models for deep content understanding and high-fidelity visual generation.",
+  "requestFramePermissions": []
+}
